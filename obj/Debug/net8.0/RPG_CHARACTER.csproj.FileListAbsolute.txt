@@ -1,0 +1,14 @@
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\bin\Debug\net8.0\RPG_CHARACTER.exe
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\bin\Debug\net8.0\RPG_CHARACTER.deps.json
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\bin\Debug\net8.0\RPG_CHARACTER.runtimeconfig.json
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\bin\Debug\net8.0\RPG_CHARACTER.dll
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\bin\Debug\net8.0\RPG_CHARACTER.pdb
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.AssemblyInfoInputs.cache
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.AssemblyInfo.cs
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.csproj.CoreCompileInputs.cache
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.dll
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\refint\RPG_CHARACTER.dll
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.pdb
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\RPG_CHARACTER.genruntimeconfig.cache
+C:\Users\Matul\Goksad\rider\RPG_CHARACTER\RPG_CHARACTER\obj\Debug\net8.0\ref\RPG_CHARACTER.dll
